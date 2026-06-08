@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://cognitivx.io/docs
+    about: Read the docs before opening an issue — your answer may be there.
+  - name: 🧠 Use iCog
+    url: https://icog.app
+    about: Try the hosted personal memory layer.
+  - name: 🔒 Report a security issue
+    url: https://github.com/CognitivX-io/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately — do not open a public issue.
+  - name: ✉️ Account & billing help
+    url: mailto:contact@cognitivx.io
+    about: For anything account- or billing-related.

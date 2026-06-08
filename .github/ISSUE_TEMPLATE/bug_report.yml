@@ -1,0 +1,53 @@
+name: 🐞 Bug report
+description: Report something that isn't working as expected
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug. Please fill out the sections
+        below so we can reproduce and fix it quickly.
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: Which part of CognitiveX is affected?
+      options:
+        - iCog (app / service)
+        - cogix (SDK)
+        - cogx (CLI)
+        - Docs
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Minimal steps (or a code snippet) that trigger the bug.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Release / SDK version / CLI version, and OS where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Paste any relevant output. This will be rendered as code.
+      render: shell
