@@ -14,7 +14,7 @@ remember you across every session, every agent, and every device.
 <p>
 <a href="https://cognitivx.io"><b>Website</b></a> &nbsp;·&nbsp;
 <a href="https://icog.app"><b>Open iCog</b></a> &nbsp;·&nbsp;
-<a href="https://cognitivx.io/docs"><b>Docs</b></a> &nbsp;·&nbsp;
+<a href="https://docs.cognitivx.io"><b>Docs</b></a> &nbsp;·&nbsp;
 <a href="https://x.com/CognitivX"><b>X / Twitter</b></a>
 </p>
 
@@ -88,7 +88,7 @@ Storage is table stakes. What makes the memory *think about you*:
 ## Get started
 
 - **Use it** → [icog.app](https://icog.app)
-- **Build on it** → `pip install cogix` and read the [docs](https://cognitivx.io/docs)
+- **Build on it** → `pip install cogix` and read the [docs](https://docs.cognitivx.io)
 - **Connect your tools** → add iCog as an MCP server in Claude, Cursor, ChatGPT, or Codex
 
 ---

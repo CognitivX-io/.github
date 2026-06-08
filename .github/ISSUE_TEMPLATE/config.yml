@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📚 Documentation
-    url: https://cognitivx.io/docs
+    url: https://docs.cognitivx.io
     about: Read the docs before opening an issue — your answer may be there.
   - name: 🧠 Use iCog
     url: https://icog.app

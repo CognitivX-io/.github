@@ -4,7 +4,7 @@ Need help with CognitiveX, iCog, cogix, or cogx? Here's where to go.
 
 ## Questions and how-to
 
-- **Docs** — [cognitivx.io/docs](https://cognitivx.io/docs)
+- **Docs** — [docs.cognitivx.io](https://docs.cognitivx.io)
 - **Discussions** — open a thread in the relevant repository's Discussions tab.
 
 ## Bugs
